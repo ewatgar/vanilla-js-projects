@@ -17,6 +17,7 @@ function getNewColorCode(){
     for(let i=0; i<3; i++){
         const decimalPart = Math.floor(Math.random() * 225) + 1;
         const hexPart = decimalPart.toString(16);
+        if (hexPart.length == 1) colorRGB += 0;
         colorRGB+=hexPart;
     }
     return colorRGB;
