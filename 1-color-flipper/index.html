@@ -7,12 +7,14 @@
     <title>Color Flipper</title>
     <link type="text/css" rel="stylesheet" href="../normalize.css">
     <link type="text/css" rel="stylesheet" href="style.css">
-    <script src="main.js"></script>
+    <script type="module" src="main.js"></script>
 </head>
 
 <body>
     <main>
-        <div id="label-color">Current Color: red</div>
+        <div id="label-color">Current Color: 
+            <span id="color-hex">#ff0000</span> 
+            <br> <span id="color-name">red</span></div>
         <button id="btn-new-color">NEW COLOR</button>
     </main>
 </body>

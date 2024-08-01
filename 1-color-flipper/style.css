@@ -18,7 +18,7 @@ main {
 #label-color {
     background-color: black;
     color: white;
-    height: 50px;
+    height: 70px;
     width: 300px;
     align-content: center;
     text-align: center;
@@ -31,4 +31,8 @@ main {
     border-radius: 50px;
     height: 30px;
     width: 150px;
+}
+
+#btn-new-color:active{
+    background-color: #9a9a9a;
 }
