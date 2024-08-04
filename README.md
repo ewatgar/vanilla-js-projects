@@ -1,10 +1,8 @@
-# vanilla-js-projects
-Vanilla JavaScript Projects for learning
+# Index
+1. [Color Flipper](#color-flipper)
+2. []()
 
-## Links
-https://www.freecodecamp.org/news/javascript-projects-for-beginners/
-
-## 1 - Color Flipper
+## [Color Flipper](/color-flipper/index.html)
 ### Steps
 1. html layout
 2. css layout
