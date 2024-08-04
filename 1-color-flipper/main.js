@@ -5,12 +5,12 @@ const colorName = document.getElementById('color-name');
 const btn = document.getElementById('btn-new-color');
 btn.addEventListener('click',onClick);
 
-function onClick(){
+async function onClick(){
     const newColor = generateNewColorCode();
     console.log(newColor);
     colorHex.innerText = `#${newColor}`;
     main.style.backgroundColor = `#${newColor}`;
-    colorName.innerText = getColorNameFromApi(newColor);
+    colorName.innerText = await getColorNameFromApi(newColor);
 }
 
 function generateNewColorCode(){
