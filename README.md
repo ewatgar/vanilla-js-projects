@@ -4,6 +4,7 @@ https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 # Index
 1. [Color Flipper](#color-flipper)
 2. [Counter](#counter)
+3. [Review Carousel](#review-carousel)
 
 ## [Color Flipper](/color-flipper/index.html)
 ### Steps
@@ -14,3 +15,5 @@ https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 5. background changing color
 
 ## [Counter](/counter/index.html)
+
+## [Review Carousel](/review-carousel/index.html)
