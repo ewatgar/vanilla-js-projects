@@ -1,10 +1,18 @@
 # Credits
-https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+>[!IMPORTANT] freeCodeCamp
+> https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+
+>[!IMPORTANT] midudev
+> https://www.javascript100.dev/
 
 # Index
-1. [Color Flipper](#color-flipper)
-2. [Counter](#counter)
-3. [Review Carousel](#review-carousel)
+## freeCodeCamp
+- [Color Flipper](#color-flipper)
+- [Counter](#counter)
+- [Review Carousel](#review-carousel)
+## midudev
+- [Search IP info](#search-ip-info)
 
 ## [Color Flipper](/color-flipper/index.html)
 ### Steps
@@ -17,3 +25,5 @@ https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 ## [Counter](/counter/index.html)
 
 ## [Review Carousel](/review-carousel/index.html)
+
+## Search IP info
