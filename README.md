@@ -1,9 +1,9 @@
 # Credits
 
->[!IMPORTANT] freeCodeCamp
+freeCodeCamp
 > https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 
->[!IMPORTANT] midudev
+midudev
 > https://www.javascript100.dev/
 
 # Index
